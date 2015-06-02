@@ -1,7 +1,5 @@
-
-######################################################
-# Hjerson: A tool for automatic error classification #
-######################################################
+Hjerson: A tool for automatic error classification
+===
 
 By: Maja Popovic <maja.popovic@dfki.de>,  August 2011
 
@@ -45,24 +43,25 @@ error rates (counts normalised over the reference or hypothesis length)
 for each of the five error classes.
 
 Optional outputs are:
--s, --sent  sentence-errors.txt
-    raw error counts and error rates at the sentence level are written
-    in "sentence-errors.txt"
 
--c, --cats  categories.txt
-    Original reference and hypothesis words labelled with a
-    corresponding error class are written in "categories.txt"
+    -s, --sent  sentence-errors.txt
+        raw error counts and error rates at the sentence level are written
+        in "sentence-errors.txt"
 
--m, --html  categories.html
-    Original reference and hypothesis words with coloured errors in
-    HTML format.
+    -c, --cats  categories.txt
+        Original reference and hypothesis words labelled with a
+        corresponding error class are written in "categories.txt"
+
+    -m, --html  categories.html
+        Original reference and hypothesis words with coloured errors in
+        HTML format.
 
 If the additional information is used, only "categories.txt" and
 "categories.html" will be different.
 
 
 Example for testing:
-~~~~~~~~~~~~~~~~~~~~
+---
 
 You can try the tool on the given example using example.ref and
 example.ref.base as reference inputs along with example.hyp and
@@ -74,5 +73,15 @@ hypothesis POS tags example.ref.pos and example.hyp.pos.
 Then you can compare obtained files with example.totalerrorrates,
 example.senterrorrates, example.(pos.)cats and example.(pos.)html.
 
+Attribution
+---
+
+    Publications of results obtained through the use of original or
+    modified versions of the software have to cite the authors by referring
+    to the following publication:
+
+    Maja Popović: "Hjerson: An Open Source Tool for Automatic Error
+    Classification of Machine Translation Output". The Prague Bulletin of
+    Mathematical Linguistics No. 96, pp. 59--68, October 2011
 
 
