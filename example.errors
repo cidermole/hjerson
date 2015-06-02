@@ -1,0 +1,14 @@
+1::wer-ref-errors: This~~x time~~x the~~x fall~~sub in~~sub stocks~~sub on~~x Wall~~x Street~~x is~~del responsible~~del for~~del the~~del drop~~del .~~x 
+1::wer-hyp-errors: This~~x time~~x ,~~ins the~~x reason~~ins for~~sub the~~sub collapse~~sub on~~x Wall~~x Street~~x .~~x 
+
+1::ref-errors: This~~x time~~x the~~x fall~~rerr in~~rerr stocks~~rerr on~~x Wall~~x Street~~x is~~rerr responsible~~rerr for~~x the~~x drop~~rerr .~~x 
+1::hyp-errors: This~~x time~~x ,~~herr the~~x reason~~herr for~~x the~~x collapse~~herr on~~x Wall~~x Street~~x .~~x 
+
+
+2::wer-ref-errors: The~~x proper~~x functioning~~x of~~x the~~x market~~x environment~~del and~~x the~~del decrease~~del in~~sub prices~~sub .~~x 
+2::wer-hyp-errors: The~~x proper~~x functioning~~x of~~x the~~x market~~x and~~x a~~sub price~~sub .~~x 
+
+2::ref-errors: The~~x proper~~x functioning~~x of~~x the~~x market~~x environment~~rerr and~~x the~~rerr decrease~~rerr in~~rerr prices~~irerr .~~x 
+2::hyp-errors: The~~x proper~~x functioning~~x of~~x the~~x market~~x and~~x a~~herr price~~iherr .~~x 
+
+

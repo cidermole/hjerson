@@ -1,0 +1,44 @@
+1::Wer: 	10	66.67
+1::Rper: 	6	40.00
+1::Hper: 	3	25.00
+
+1::rINFer: 	0	0.00
+1::hINFer: 	0	0.00
+1::rRer:   	2	13.33
+1::hRer:   	2	16.67
+1::MISer:  	3	20.00
+1::EXTer:  	2	16.67
+1::rLEXer: 	3	20.00
+1::hLEXer: 	1	8.33
+
+1::brINFer: 	0	0.00
+1::bhINFer: 	0	0.00
+1::brRer:   	1	6.67
+1::bhRer:   	1	8.33
+1::bMISer:  	2	13.33
+1::bEXTer:  	2	16.67
+1::brLEXer: 	1	6.67
+1::bhLEXer: 	1	8.33
+
+2::Wer: 	5	38.46
+2::Rper: 	5	38.46
+2::Hper: 	2	20.00
+
+2::rINFer: 	1	7.69
+2::hINFer: 	1	10.00
+2::rRer:   	0	0.00
+2::hRer:   	0	0.00
+2::MISer:  	3	23.08
+2::EXTer:  	0	0.00
+2::rLEXer: 	1	7.69
+2::hLEXer: 	1	10.00
+
+2::brINFer: 	1	7.69
+2::bhINFer: 	1	10.00
+2::brRer:   	0	0.00
+2::bhRer:   	0	0.00
+2::bMISer:  	2	15.38
+2::bEXTer:  	0	0.00
+2::brLEXer: 	1	7.69
+2::bhLEXer: 	1	10.00
+
